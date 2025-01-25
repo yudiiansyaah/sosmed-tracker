@@ -46,14 +46,15 @@ Pastikan kalian telah mempunyai GIT pada device kalian, jika belum terinstall ma
   sudo zypper in git
   ```
 
-  - macOS
+- macOS
 
-    ``` bash
-    brew install git
-    ```
+  ``` bash
+  brew install git
+  ```
 
-    - Windows
-      Kalian bisa langusng ke Website nya [Git's official website](https://git-scm.com/)
+- Windows
+  
+  Kalian bisa langusng ke Website nya [Git's official website](https://git-scm.com/)
 
 ## Clone Repository saya dibawah ini:
 

@@ -31,19 +31,19 @@ Pastikan kalian telah mempunyai GIT pada device kalian, jika belum terinstall ma
 - Linux
   
   ``` Debian/Ubuntu
-  sudo apt install git
+  sudo apt install git # Debian/Ubuntu
   ```
 
   ``` Fedora
-  sudo apt install git
+  sudo dnf install git # Fedora
   ```
 
   ``` Arch Linux
-  sudo pacman -S git
+  sudo pacman -S git # Arch-linux
   ```
 
   ``` openSUSE
-  sudo zypper in git
+  sudo zypper in git # openSUSE
   ```
 
 - macOS

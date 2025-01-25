@@ -65,36 +65,43 @@ cd sosmed-tracker
 
 ## Install VENV
 
+- Linux/macOS
 ``` Linux/macOS
 python3 -m venv venv
 ```
 
+- Windows
 ``` Windows
 python -m venv venv
 ```
 
 ## Aktifkan venv
 
+- Linux/macOS
 ``` Linux/macOS
-source venv/bin/activate
+source venv/bin/activate 
 ```
 
+- Windows
 ```Windows
 venv\Scripts\activate
 ```
 
 ## Install file requirements.txt
 
+- Linux/macOS/Windows
 ```Liunux/macOS/Windows
 pip install -r requirements.txt
 ```
 
 ## Jalankan ``sosmed-tracker``
 
+- Linux/macOS
 ``` Linux/macOS
 python3 main.py
 ```
 
+- Windows
 ```Windows
 python main.py
 ```
@@ -108,11 +115,12 @@ python main.py
 2. Pastikan ``git`` telah terpasang juga pada sistem kalian.
 3. Pastikan ``venv`` juga telah kalian install.
 4. Setelah ``venv`` telah di install, jangan lupa untuk menjalankan venv dengan cara:
-    - Masuk ke folder ``sosmed-tracker`` pastikan ada foder ``venv`` didalamnya.
-    - Aktifkan ``venv`` seperti dibawah ini:
-      ```bash
-      source venv/bin/activate    # Linux/macOS
-      venv\Scripts\activate       # Windows
+- Masuk ke folder ``sosmed-tracker`` pastikan ada foder ``venv`` didalamnya.
+- Aktifkan ``venv`` seperti dibawah ini:
+   ```bash
+   source venv/bin/activate    # Linux/macOS
+   venv\Scripts\activate       # Windows
+   ```
 5. Pastikan file ``requirements.txt`` telah di install, jika belum ikuti langkah dibawah ini:
    ```bash/terminal
    pip3 install -r requirements  # linux/macOS

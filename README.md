@@ -58,53 +58,53 @@ Pastikan kalian telah mempunyai GIT pada device kalian, jika belum terinstall ma
 
 ## Clone Repository saya dibawah ini:
 
-``` bash/terminal
-git clone https://github.com/yudiiansyaah/sosmed-tracker.git
-cd sosmed-tracker
-```
+  ``` bash/terminal
+  git clone https://github.com/yudiiansyaah/sosmed-tracker.git
+  cd sosmed-tracker
+  ```
 
 ## Install VENV
 
 - Linux/macOS
-``` Linux/macOS
-python3 -m venv venv
-```
+  ``` Linux/macOS
+  python3 -m venv venv
+  ```
 
 - Windows
-``` Windows
-python -m venv venv
-```
+  ``` Windows
+  python -m venv venv
+  ```
 
 ## Aktifkan venv
 
 - Linux/macOS
-``` Linux/macOS
-source venv/bin/activate 
-```
+  ``` Linux/macOS
+  source venv/bin/activate 
+  ```
 
 - Windows
-```Windows
-venv\Scripts\activate
-```
+  ```Windows
+  venv\Scripts\activate
+  ```
 
 ## Install file requirements.txt
 
 - Linux/macOS/Windows
-```Liunux/macOS/Windows
-pip install -r requirements.txt
-```
+  ```Liunux/macOS/Windows
+  pip install -r requirements.txt
+  ```
 
 ## Jalankan ``sosmed-tracker``
 
 - Linux/macOS
-``` Linux/macOS
-python3 main.py
-```
+  ``` Linux/macOS
+  python3 main.py
+  ```
 
 - Windows
-```Windows
-python main.py
-```
+  ```Windows
+  python main.py
+  ```
 
 ## Jika Tools Error
 

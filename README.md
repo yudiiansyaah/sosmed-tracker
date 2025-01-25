@@ -58,10 +58,10 @@ Pastikan kalian telah mempunyai GIT pada device kalian, jika belum terinstall ma
 
 ## Clone Repository saya dibawah ini:
 
-  ``` bash/terminal
-  git clone https://github.com/yudiiansyaah/sosmed-tracker.git
-  cd sosmed-tracker
-  ```
+    ``` bash/terminal
+    git clone https://github.com/yudiiansyaah/sosmed-tracker.git
+    cd sosmed-tracker
+    ```
 
 ## Install VENV
 

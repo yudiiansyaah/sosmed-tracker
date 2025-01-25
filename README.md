@@ -58,10 +58,10 @@ Pastikan kalian telah mempunyai GIT pada device kalian, jika belum terinstall ma
 
 ## Clone Repository saya dibawah ini:
 
-  ``` bash/terminal
-  git clone https://github.com/yudiiansyaah/sosmed-tracker.git
-  cd sosmed-tracker
-  ```
+    ``` bash/terminal
+    git clone https://github.com/yudiiansyaah/sosmed-tracker.git
+    cd sosmed-tracker
+    ```
 
 ## Install VENV
 
@@ -129,7 +129,7 @@ Pastikan kalian telah mempunyai GIT pada device kalian, jika belum terinstall ma
    ```bash/terminal
    python3 main.py  # Linux/macOS
    python main.py   # Windows
-
+   ```
 ## License
 Projek ini dibawah licensed the  [MIT License](LICENSE).
    

@@ -1,32 +1,34 @@
 # sosmed-tracker
 
-Hai bro dan sist! Gimana kalau sesekali kita pakai bahasa lokal, biar lebih dekat ya…
-Tools ``sosmed-tracker`` ini saya buat sebagai proyek open-source dan free, jadi kalian bisa bebas pakai, modifikasi, atau bahkan kembangkan lebih lanjut sesuai kebutuhan. Tools ini cocok banget buat kalian yang hobi cari info spesifik tentang seseorang, atau mungkin para "STALKER" yang sedang mencari-cari informasi secara lebih detail. Eh, tapi jangan khawatir, ini semua cuma untuk tujuan yang baik kok! 😎
+Hai bro dan sist! Gimana kalau sesekali kita pakai bahasa lokal, biar lebih dekat ya… 😄  
+Tools `sosmed-tracker` ini saya buat sebagai proyek open-source dan free, jadi kalian bisa bebas pakai, modifikasi, atau bahkan kembangkan lebih lanjut sesuai kebutuhan. Tools ini cocok banget buat kalian yang hobi cari info spesifik tentang seseorang, atau mungkin para "STALKER" yang sedang mencari-cari informasi secara lebih detail. Eh, tapi jangan khawatir, ini semua cuma untuk tujuan yang baik kok! 😎
 
-### Apakah ini Legal?
-Tentu saja! Tools ini bekerja mirip dengan OSINT (Open Source Intelligence), yang mana sumber data yang digunakan terbuka dan diambil langsung dari Internet. Jadi, selama kalian pakai dengan bijak dan sesuai aturan yang ada, nggak ada masalah! Yang penting, jangan sampai salah gunakan untuk hal-hal yang nggak etis, ya!
+### Apakah ini Legal? ⚖️  
+Tentu saja! Tools ini bekerja mirip dengan OSINT (Open Source Intelligence), yang mana sumber data yang digunakan terbuka dan diambil langsung dari Internet. Jadi, selama kalian pakai dengan bijak dan sesuai aturan yang ada, nggak ada masalah! Yang penting, jangan sampai salah gunakan untuk hal-hal yang nggak etis, ya! 🚫
 
-### Apa Saja yang Bisa Dilacak?
-Dengan sosmed-tracker, kalian bisa melacak berbagai informasi yang tersedia di media sosial dan sumber-sumber terbuka lainnya, mulai dari akun media sosial, postingan, hingga berbagai jejak digital lainnya. Ingat, data yang diambil hanya yang memang sudah ada di internet dan bersifat terbuka untuk umum. Jadi, nggak ada yang sembunyi-sembunyi di sini!
+### Apa Saja yang Bisa Dilacak? 🔍  
+Dengan `sosmed-tracker`, kalian bisa melacak berbagai informasi yang tersedia di media sosial dan sumber-sumber terbuka lainnya, mulai dari akun media sosial, postingan, hingga berbagai jejak digital lainnya. Ingat, data yang diambil hanya yang memang sudah ada di internet dan bersifat terbuka untuk umum. Jadi, nggak ada yang sembunyi-sembunyi di sini! 🔓
 
-### Punya Pertanyaan?
-Jangan ragu untuk tanya! Tools ini dibuat untuk membantu kalian yang ingin menggali lebih dalam informasi yang ada di dunia maya. Kalau ada ide atau saran buat pengembangan, yuk saling diskusi dan berbagi!
+### Punya Pertanyaan? 💬  
+Jangan ragu untuk tanya! Tools ini dibuat untuk membantu kalian yang ingin menggali lebih dalam informasi yang ada di dunia maya. Kalau ada ide atau saran buat pengembangan, yuk saling diskusi dan berbagi! 💡
 
-### DM untuk pertanyaan!
-
+### DM untuk pertanyaan! 📩
 - [Instagram](https://www.instagram.com/yudiiansyaah)
 - [X/Twitter](https://www.x.com/yudiiansyaah)
 
-## Tracker Sosmed
+---
+
+## Tracker Sosmed  
 ![Main Display](track-sosmed.png)
 
-## Tracker Search Engine
+## Tracker Search Engine  
 ![Main Display](track-searchengine.png)
 
-## Cara Instalasi
-Pastikan kalian telah mempunyai GIT pada device kalian, jika belum terinstall maka kalian harus ikuti langkah dibawah ini:
+---
 
-# Buka Terminal
+## Cara Instalasi 🛠️
+
+Pastikan kalian telah mempunyai GIT pada device kalian, jika belum terinstall, ikuti langkah di bawah ini:
 
 - Linux
   

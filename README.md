@@ -1,5 +1,4 @@
-# sosmed-tracker
-
+# SOSMED TRACKER
 Hai bro dan sist! Gimana kalau sesekali kita pakai bahasa lokal, biar lebih dekat ya… 😄  
 Tools `sosmed-tracker` ini saya buat sebagai proyek open-source dan free, jadi kalian bisa bebas pakai, modifikasi, atau bahkan kembangkan lebih lanjut sesuai kebutuhan. Tools ini cocok banget buat kalian yang hobi cari info spesifik tentang seseorang, atau mungkin para "STALKER" yang sedang mencari-cari informasi secara lebih detail. Eh, tapi jangan khawatir, ini semua cuma untuk tujuan yang baik kok! 😎
 

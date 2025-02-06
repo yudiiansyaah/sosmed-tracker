@@ -27,7 +27,6 @@ SOCIAL_MEDIA_PLATFORMS = {
     "Tumblr": "https://{username}.tumblr.com"
 }
 
-# Fungsi untuk memeriksa username di berbagai platform sosial media
 def check_username(platform, url):
     try:
         response = requests.get(url, timeout=5)
@@ -38,7 +37,6 @@ def check_username(platform, url):
     except requests.RequestException:
         return f"{Fore.RED}[ERROR]{Style.RESET_ALL}\t\t\t {platform}: {url}"
 
-# Fungsi untuk melakukan pencarian username di berbagai platform sosial media
 def search_social_media(username):
     results = []
     with ThreadPoolExecutor() as executor:
@@ -52,7 +50,6 @@ def search_social_media(username):
 
     return results
 
-# Fungsi untuk pencarian menggunakan Brave
 def brave_search(fullname):
     query = fullname.replace(" ", "+")
     url = f"https://search.brave.com/search?q={query}&source=web"
@@ -81,7 +78,6 @@ def brave_search(fullname):
         print(Fore.RED + f"[ERROR] Error occurred: {e}" + Style.RESET_ALL)
         return []
 
-# Fungsi utama
 def main():
     print("Options:")
     print("1. Search Social Media with username")

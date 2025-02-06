@@ -1,6 +1,6 @@
 from colorama import init, Fore, Style
 
-init(autoreset=True)  # Initialize colorama and reset colors after each print
+init(autoreset=True)
 
 def print_banner(text):
 
